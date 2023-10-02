@@ -92,3 +92,6 @@
 
 ![in_cabine](https://github.com/garick161/MCC_notes_bot/assets/114688542/0a61ab16-3341-48f6-9dd5-359e88252b3a)
 
+![Гифка с Gifius ru](https://github.com/garick161/MCC_notes_bot/assets/114688542/632498cd-2fa6-4185-8efa-a42b2294dd18)
+
+
