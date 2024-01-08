@@ -91,7 +91,7 @@ https://drive.google.com/file/d/1L0-xcItk3lJCxgN3eEmjfxqZW70uCFdx/view?usp=shari
 
 3) Если хочется просто попробовать как работает бот без лишних усилий, вы можете написать мне в телеграмм @garick161, я запущу бота у себя и скину вам ссылку на бота.
 
-![in_cabine](https://github.com/garick161/MCC_notes_bot/assets/114688542/0a61ab16-3341-48f6-9dd5-359e88252b3a)
+![in_cabine](https://github.com/garick161/MCC_notes_bot/assets/114688542/0a61ab16-3341-48f6-9dd5-359e88252b3a) 
 
 
 
